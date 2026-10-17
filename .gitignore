@@ -67,3 +67,13 @@ dump.rdb
 
 venv_bootcamp/
 staticfiles
+
+# Local environments, editor files and generated output
+.idea/
+*.iml
+.venv/
+venv/
+.mypy_cache/
+.ruff_cache/
+.env*
+!env.example
